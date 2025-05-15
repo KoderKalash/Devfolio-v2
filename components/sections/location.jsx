@@ -1,1 +1,0 @@
-//my location with map!
